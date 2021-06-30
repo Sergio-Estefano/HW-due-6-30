@@ -28,6 +28,9 @@ Continous v Discrete Variable:
     Ex: Time
   Discrete: Countable in a finate amount of time
     Ex: Rolling 2 dice
+    
+What is dollar sign?
+  The dollar sign is trying to call the variable the variables are referring to the name of the columns in your data frame
 
 
   
